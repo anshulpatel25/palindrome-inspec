@@ -1,0 +1,8 @@
+name: palindrome
+title: InSpec Profile
+maintainer: Anshul Patel
+copyright: Anshul Patel
+copyright_email: anshulpatel25@gmail.com
+license: Apache-2.0
+summary: An InSpec Compliance Profile
+version: 0.1.0
